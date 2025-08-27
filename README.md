@@ -1,1 +1,3 @@
 # Student-Exam-Score-Prediction
+
+“In this project, I developed a student exam score prediction model using regression techniques by considering both academic and behavioral factors. I built a complete preprocessing pipeline that included handling missing values, encoding categorical variables, and scaling numerical features. I performed exploratory data analysis to study correlations between attendance, study habits, and exam performance. For modeling, I implemented and compared Linear Regression, Ridge Regression, and Lasso Regression to improve prediction accuracy. Finally, I visualized the insights and model outcomes using Matplotlib and Seaborn.”
